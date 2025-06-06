@@ -6,3 +6,5 @@ And also has string methods for example concat,toUpperCase,toLowerCase etc.,
 you can simply open in web browser.
 
 It also contains the methods of functions like basic syntax,named function,call back function etc.,
+
+It also contains the basic syntaxes of arrays  and methods like push,pop,slice,some etc.,
